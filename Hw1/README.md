@@ -44,6 +44,8 @@ https://drive.google.com/file/d/1fx4Z6xl5b6r4UFkBrn5l0oPEIagZxQ5u/view?usp=drive
 **Instructor:** 林彥宇  
 
 ---
+## Performance Snapshot
+![Description](path/to/image.png)
 
 ## 📜 License
 This project is for educational purposes. Feel free to modify and use it!
