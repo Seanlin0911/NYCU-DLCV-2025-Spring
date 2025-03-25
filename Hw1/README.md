@@ -45,7 +45,7 @@ https://drive.google.com/file/d/1fx4Z6xl5b6r4UFkBrn5l0oPEIagZxQ5u/view?usp=drive
 
 ---
 ## Performance Snapshot
-![Description](path/to/image.png)
+![Description](https://github.com/Seanlin0911/NYCU-DLCV-2025-Spring/blob/main/Hw1/Accuracy.png)
 
 ## 📜 License
 This project is for educational purposes. Feel free to modify and use it!
