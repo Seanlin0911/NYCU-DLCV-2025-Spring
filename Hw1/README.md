@@ -35,6 +35,8 @@ import torch
 print("Torch Version:", torch.__version__)
 print("CUDA Available:", torch.cuda.is_available())
 ```
+### 5️⃣ Install Dataset
+https://drive.google.com/file/d/1fx4Z6xl5b6r4UFkBrn5l0oPEIagZxQ5u/view?usp=drive_link
 
 ## ✍️ Author
 **Student ID:** 111550173  
