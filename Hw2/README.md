@@ -36,7 +36,7 @@ print("Torch Version:", torch.__version__)
 print("CUDA Available:", torch.cuda.is_available())
 ```
 ### 5️⃣ Install Dataset
-https://drive.google.com/file/d/1fx4Z6xl5b6r4UFkBrn5l0oPEIagZxQ5u/view?usp=drive_link
+https://drive.google.com/file/d/13JXJ_hIdcloC63sS-vF3wFQLsUP1sMz5/view
 
 ## ✍️ Author
 **Student ID:** 111550173  
@@ -45,7 +45,7 @@ https://drive.google.com/file/d/1fx4Z6xl5b6r4UFkBrn5l0oPEIagZxQ5u/view?usp=drive
 
 ---
 ## Performance Snapshot
-![Description](https://github.com/Seanlin0911/NYCU-DLCV-2025-Spring/blob/main/Hw1/Accuracy.png)
+![Description](https://github.com/Seanlin0911/NYCU-DLCV-2025-Spring/blob/main/Hw2/accruacy.png)
 
 ## 📜 License
 This project is for educational purposes. Feel free to modify and use it!
