@@ -2,7 +2,7 @@
 # README
 
 ## 📌 Project Overview
-This project utilizes PyTorch for deep learning tasks, by packaging ResNeXt50 to a faster rcnn for fine-tuning and evaluation, doing a number recognition task.
+This project utilizes PyTorch for deep learning tasks, by packaging ResNet50V2 to a Mask rcnn for fine-tuning and evaluation, doing a cell segementation task.
 
 ## 🛠 How to Install
 
@@ -46,7 +46,7 @@ https://drive.google.com/file/d/1B0qWNzQZQmfQP7x7o4FDdgb9GvPDoFzI/view?usp=shari
 
 ---
 ## Performance Snapshot
-![Description]()
+![Description](https://github.com/Seanlin0911/NYCU-DLCV-2025-Spring/blob/main/Hw3/score%20board.png)
 
 ## 📜 License
 This project is for educational purposes. Feel free to modify and use it!
